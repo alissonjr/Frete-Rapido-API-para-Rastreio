@@ -46,12 +46,192 @@ Observação: Nem todas as categorias da sua loja podem corresponder diretamente
 
 Lista dos tipos de volumes e seus códigos de referência, utilizados nas cotações:
 
-https://docs.google.com/spreadsheets/d/1xwH4tT1Dg3RAAflYtbC4g0C4N7aQNy48Bw6QQKW4xik/edit?usp=sharing
+| Código | Produto                              |
+|--------|--------------------------------------|
+| 1      | Abrasivos                            |
+| 109    | Acessório para decoração (com vidro) |
+| 110    | Acessório para decoração (sem vidro) |
+| 111    | Acessórios automotivos               |
+| 69     | Acessórios de Airsoft / Paintball    |
+| 73     | Acessórios de Arquearia              |
+| 149    | Acessórios de montaria               |
+| 70     | Acessórios de Pesca                  |
+| 112    | Acessórios para bicicleta            |
+| 90     | Acessórios para celular              |
+| 130    | Acessórios para Narguilés            |
+| 132    | Acessórios para Tabacaria            |
+| 2      | Adubos / Fertilizantes               |
+| 74     | Alimentos não perecíveis             |
+| 3      | Alimentos perecíveis                 |
+| 145    | Armações de óculos                   |
+| 72     | Arquearia                            |
+| 113    | Artesanatos (com vidro)              |
+| 93     | Artesanatos (sem vidro)              |
+| 152    | Artigos de festas                    |
+| 82     | Artigos para Camping                 |
+| 4      | Artigos para Pesca                   |
+| 5      | Auto Peças                           |
+| 133    | Banheira Acrílico                    |
+| 134    | Banheira de Aço Esmaltada            |
+| 135    | Banheira Fibra de Vidro              |
+| 128    | Bebedouros e Purificadores           |
+| 6      | Bebidas / Destilados                 |
+| 114    | Bicicletas (desmontada)              |
+| 99     | Bijuteria                            |
+| 7      | Brindes                              |
+| 8      | Brinquedos                           |
+| 146    | Caixa d'água (Completa)              |
+| 75     | Caixa de embalagem                   |
+| 136    | Caixa Plástica                       |
+| 9      | Calçados                             |
+| 115    | Cama / Mesa / Banho                  |
+| 62     | Cargas refrigeradas/congeladas       |
+| 137    | Cartucho de Gás                      |
+| 10     | CD / DVD / Blu-Ray                   |
+| 122    | Celulares e Smartphones              |
+| 116    | Chapas de madeira                    |
+| 121    | Chip de celular                      |
+| 102    | Cocção Industrial                    |
+| 66     | Colchão                              |
+| 11     | Combustíveis / Óleos                 |
+| 12     | Confecção                            |
+| 13     | Cosméticos                           |
+| 14     | Couro                                |
+| 15     | Derivados Petróleo                   |
+| 16     | Descartáveis                         |
+| 17     | Editorial                            |
+| 19     | Eletrodomésticos                     |
+| 125    | Eletrodomésticos industriais         |
+| 150    | Eletroportáteis                      |
+| 18     | Eletrônicos                          |
+| 20     | Embalagens                           |
+| 138    | Equipamento oftalmológico            |
+| 107    | Equipamentos de cozinha industrial   |
+| 88     | Equipamentos de Segurança / API      |
+| 151    | Equipamentos para solda              |
+| 84     | Estiletes / Materiais Cortantes      |
+| 106    | Estufa térmica                       |
+| 21     | Explosivos / Pirotécnicos            |
+| 126    | Expositor industrial                 |
+| 87     | Extintores                           |
+| 23     | Ferragens                            |
+| 24     | Ferramentas                          |
+| 25     | Fibras Ópticas                       |
+| 26     | Fonográfico                          |
+| 27     | Fotográfico                          |
+| 28     | Fraldas / Geriátricas                |
+| 29     | Higiene                              |
+| 30     | Impressos                            |
+| 31     | Informática / Computadores           |
+| 32     | Instrumento Musical                  |
+| 100    | Joia                                 |
+| 144    | Lentes de contato                    |
+| 86     | Limpeza                              |
+| 77     | Linha Branca                         |
+| 33     | Livro(s)                             |
+| 79     | Malas / Mochilas                     |
+| 117    | Manequins                            |
+| 104    | Maquina de algodão doce              |
+| 105    | Maquina de chocolate                 |
+| 34     | Materiais Escolares                  |
+| 35     | Materiais Esportivos                 |
+| 36     | Materiais Frágeis                    |
+| 97     | Materiais hidráulicos / Encanamentos |
+| 37     | Material de Construção               |
+| 38     | Material de Irrigação                |
+| 154    | Material de Jardinagem               |
+| 141    | Material de laboratório              |
+| 39     | Material Elétrico / Lâmpada(s)       |
+| 40     | Material Gráfico                     |
+| 41     | Material Hospitalar                  |
+| 42     | Material Odontológico                |
+| 139    | Material oftalmológico               |
+| 43     | Material Pet Shop                    |
+| 50     | Material Plástico                    |
+| 44     | Material Veterinário                 |
+| 127    | Maçanetas                            |
+| 22     | Medicamentos                         |
+| 46     | Moto Peças                           |
+| 47     | Mudas / Plantas                      |
+| 80     | Máquina / Equipamentos               |
+| 68     | Móveis com peças de vidro            |
+| 64     | Móveis desmontados                   |
+| 45     | Móveis montados                      |
+| 129    | Narguilés                            |
+| 999    | Outros                               |
+| 48     | Papelaria / Documentos               |
+| 63     | Papelão                              |
+| 49     | Perfumaria                           |
+| 98     | Pia / Vasos                          |
+| 83     | Pilhas / Baterias                    |
+| 92     | Pisos (cerâmica) / Revestimentos     |
+| 96     | Placa de Energia Solar               |
+| 51     | Pneus e Borracharia                  |
+| 95     | Porta / Janelas (sem vidro)          |
+| 118    | Portas / Janelas (com vidro)         |
+| 124    | Portáteis industriais                |
+| 85     | Produto Químico classificado         |
+| 52     | Produtos Cerâmicos                   |
+| 143    | Produtos de SexShop                  |
+| 53     | Produtos Químicos Não Classificados  |
+| 54     | Produtos Veterinários                |
+| 94     | Quadros / Molduras                   |
+| 81     | Rações / Alimento para Animal        |
+| 101    | Refrigeração Industrial              |
+| 153    | Relógios                             |
+| 55     | Revistas                             |
+| 148    | Selas e Arreios de montaria          |
+| 56     | Sementes                             |
+| 71     | Simulacro de Arma / Airsoft          |
+| 65     | Sofá                                 |
+| 57     | Suprimentos Agrícolas / Rurais       |
+| 131    | Tabacaria                            |
+| 147    | Tampa de Caixa d'água                |
+| 108    | Tapeçaria / Cortinas / Persianas     |
+| 123    | Telefonia Fixa e Sem Fio             |
+| 142    | Tinta                                |
+| 91     | Toldos                               |
+| 119    | Torneiras                            |
+| 67     | Travesseiro                          |
+| 76     | TV / Monitores                       |
+| 58     | Têxtil                               |
+| 103    | Utensílios industriais               |
+| 89     | Utilidades domésticas                |
+| 59     | Vacinas                              |
+| 120    | Vasos de polietileno                 |
+| 60     | Vestuário                            |
+| 61     | Vidros / Frágil                      |
+| 78     | Vitaminas / Suplementos nutricionais |
+| 140    | Óculos e acessórios                  |
 
 ## Ocorrências do Frete Rápido
 As ocorrências do Frete Rápido definem o fluxo de rastreabilidade dos objetos embarcados:
 
-https://docs.google.com/spreadsheets/d/1cK5X2SKTPTahJ4Bg2pxB5wFDxAqe7G5qrSjCS0eOjag/edit?usp=sharing
+| Código | Ocorrência                            |
+|--------|---------------------------------------|
+| 0      | Solicitado / Aguardando aceitação     |
+| 1      | Aceito / Aguardando coleta            |
+| 2      | Em trânsito                           |
+| 3      | Entregue                              |
+| 4      | Recusado                              |
+| 5      | Entrega não realizada                 |
+| 6      | Reentrega / Nova tentativa de entrega |
+| 7      | Devolução / Retorno                   |
+| 8      | Em trânsito para devolução            |
+| 9      | Devolvido ao remetente                |
+| 10     | Recusado 72h                          |
+| 11     | Entrega parcial                       |
+| 12     | Devolução parcial                     |
+| 13     | Em trânsito para devolução parcial    |
+| 14     | Devolvido parcialmente                |
+| 15     | Coletado                              |
+| 16     | Em transferência                      |
+| 17     | Em rota para entrega                  |
+| 18     | Sinistro ou Extravio                  |
+| 19     | Disponível para retirada              |
+| 97     | Problemas com endereço de entrega     |
+| 98     | Problemas com a carga                 |
+| 99     | Cancelado                             |
 
 ## Limite de requisições
 Para evitar gargalos e imprevistos que possam influenciar sua operação, a API da Frete Rápido permite até 120 requisições por minuto, exceto o método de simulação da oferta permanece sem limites de requisições.
@@ -63,13 +243,12 @@ Permite verificar a autenticidade de acesso junto a API Frete Rápido.
 
 ## Envio:
 Parâmetros do corpo da requisição:
+    * Obrigatório
 | Nome              | Descrição                                                                                                          | Formato / Exemplo                      | Obrigatório |
 |-------------------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|
 | cnpj              | CNPJ que possui cadastro na Frete Rápido                                                                           | String de 14 caracteres sem formatação | *           |
 | token             | Chave de acesso gerada no seu Painel Frete Rápido                                                                  | String de 32 caracteres                | *           |
 | codigo_plataforma | Código da plataforma de E-commerce que você utiliza. Solicite o seu código pelo canal integracoes@freterapido.com. | String                                 | *           |
-
-*obrigatorio
 
 ### Exemplo de envio:
 ```json
@@ -108,7 +287,7 @@ Para esse método, você pode utilizar, se preferir, o protocolo de comunicaçã
 ## Envio:
 
 ### Parâmetros do corpo da requisição:
-
+    * Obrigatório
 | Nome                  | Descrição                                                                                                                                                                                                                                                                     | Formato / Exemplo                                                                                                           | Obrigatório                         |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 | remetente             | Objeto com alguns dados do remetente/origem                                                                                                                                                                                                                                   | Objeto em json                                                                                                              | *                                   |
@@ -145,6 +324,8 @@ Para esse método, você pode utilizar, se preferir, o protocolo de comunicaçã
 | cotacao_plataforma    | Identificador da cotação na plataforma de ecommerce. Podendo agilizar a consulta de valores em caso de várias chamadas do mesmo carrinho de compras.                                                                                                                          | Numérico (inteiro)                                                                                                          | Opcional                            |
 | token                 | Token de integração                                                                                                                                                                                                                                                           | String de 32 caracteres                                                                                                     | *                                   |
 | retornar_consolidacao | Caso true retornará os volumes consolidados                                                                                                                                                                                                                                   | Boolean                                                                                                                     | Opcional                            |
+
+¹ Expedidor é utilizado quando a transportadora deve coletar a mercadoria em outro local diferente do local do remetente, muito utilizado por empresas onde o remetente é de outro estado mas a mercadoria deve ser coletada no estado onde se encontra a transportadora. Exemplo: Uma empresa remetente de RS, Transportadora de SP, mercadoria deve ser coletada na filial da empresa que está em SP para ser entregue em BA. Nesse caso, o expedidor deve ser a filial de SP para que o conhecimento de transporte saia com origem SP, destino BA, ao invés de RS como origem.
 
 ### Exemplo de envio:
 
@@ -204,7 +385,7 @@ Se a requisição obtiver sucesso, será retornado o código de resposta **HTTP 
 
 | Nome              | Descrição                                                                                                                                   | Formato / Exemplo                                  | Retornado                    |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|------------------------------|
-| token_oferta      | Token único de identificação do cálculo de valores da cotação. Utilizado para contratação da oferta no método “Contratação”.                | String                                             | Sempre                       |
+| token_oferta      | Token único de identificação do cálculo de valores da simulação. Utilizado para contratação da oferta no método “Contratação”.              | String                                             | Sempre                       |
 |                   |                                                                                                                                             |                                                    |                              |
 | transportadoras   | Objeto com as ofertas das transportadoras                                                                                                   | Objeto em json                                     | Sempre                       |
 | oferta            | Código de identificação da oferta. Utilizada na contratação da oferta.                                                                      | Numérico (inteiro)                                 | Sempre                       |
@@ -299,73 +480,73 @@ Se a requisição obtiver sucesso, será retornado o código de resposta **HTTP 
             "tipo": 64,
             "sku": "MTC-220-AM",
             "descricao": "Sofá Anjos Confortable 3 Lugares Retrátil E Reclinável Velud",
-            "quantidade" 3,
+            "quantidade": 3,
             "altura": 0.52,
             "largura": 0.42,
             "comprimento": 0.30,
             "peso": 29.75,
             "valor": 542.56,
-            "volumes_produto" 4
+            "volumes_produto": 4
         },
         {
             "tipo": 64,
             "sku": "MTC-220-AM",
             "descricao": "Sofá Anjos Confortable 3 Lugares Retrátil E Reclinável Velud",
-            "quantidade" 1,
+            "quantidade": 1,
             "altura": 0.52,
             "largura": 0.40,
             "comprimento": 0.30,
             "peso": 29.75,
             "valor": 542.56,
-            "volumes_produto" 4
+            "volumes_produto": 4
         },
         {
             "tipo": 999,
             "sku": null,
             "descricao": "Caixa pequena",
-            "quantidade" 1,
+            "quantidade": 1,
             "altura": 0.20,
             "largura": 0.20,
             "comprimento": 0.30,
             "peso": 1.50,
             "valor": 2592.30,
-            "volumes_produto" 1,
+            "volumes_produto": 1,
             "itens" :[
                 {
                     "tipo": 18,
                     "sku": "SS-GJ8-MG",
                     "descricao": "Smartphone Samsung Galaxy J8 64GB Prata 4G - 4GB RAM",
-                    "quantidade" 1,
+                    "quantidade": 1,
                     "altura": 0.15,
                     "largura": 0.10,
                     "comprimento": 0.05,
                     "peso": 0.50,
                     "valor": 1079.10,
-                    "volumes_produto" 1
+                    "volumes_produto": 1
                 },
                 {
                     "tipo": 18,
                     "sku": "SM-G7P-MG",
                     "descricao": "Smartphone Motorola G7 Play 32GB Indigo 4G - 2GB RAM",
-                    "quantidade" 1,
+                    "quantidade": 1,
                     "altura": 0.15,
                     "largura": 0.10,
                     "comprimento": 0.05,
                     "peso": 0.50,
                     "valor": 839.10,
-                    "volumes_produto" 1
+                    "volumes_produto": 1
                 },
                 {
                     "tipo": 18,
                     "sku": "SLG-K12-MG",
                     "descricao": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM",
-                    "quantidade" 1,
+                    "quantidade": 1,
                     "altura": 0.15,
                     "largura": 0.10,
                     "comprimento": 0.05,
                     "peso": 0.50,
                     "valor": 674.10,
-                    "volumes_produto" 1
+                    "volumes_produto": 1
                 }
             ]
         }
@@ -373,16 +554,17 @@ Se a requisição obtiver sucesso, será retornado o código de resposta **HTTP 
 }
 ```
 
-# **[POST]** Contratação de frete
+# **[POST]** Contratação da oferta
     https://freterapido.com/api/external/embarcador/v1/quote/ecommerce/[token_oferta]/offer/[oferta]?token=[seu_token]
 
-Método que permite realizar a solicitação de frete, com base em uma cotação realizada.
+Método que permite realizar o registro da oferta para o pedido, com base em uma oferta anteriormente simulada. É aqui onde vamos receber as demais informações para finalização do pedido.
 
 Basta enviar uma requisição do tipo POST com os parâmetros estabelecidos abaixo.
 
 ## Envio:
 
 ### Parâmetros da URL:
+    * obrigatório
 
 | Nome         | Descrição                        | Formato / Exemplo       | Obrigatório |
 |--------------|----------------------------------|-------------------------|-------------|
@@ -391,6 +573,7 @@ Basta enviar uma requisição do tipo POST com os parâmetros estabelecidos abai
 | token        | Token de integração              | String de 32 caracteres | *           |
 
 ### Parâmetros do corpo da requisição:
+    * obrigatório
 
 | Nome               | Descrição                                                                                                           | Formato / Exemplo                                     | Obrigatório                         |
 |--------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------|
@@ -466,6 +649,7 @@ Basta enviar uma requisição do tipo POST com os parâmetros estabelecidos abai
 # Resposta:
 Se a requisição obtiver sucesso, será retornado o código de resposta **HTTP 200** com as ofertas que atendem a rota, conforme os dados e exemplo abaixo.
     * Obrigatório
+
 | Nome     | Descrição                                                                                    | Formato / Exemplo       | Retornado |
 |----------|----------------------------------------------------------------------------------------------|-------------------------|-----------|
 | id_frete | Identificador do frete contratado no Frete Rápido. Pode ser utilizado para rastrear o frete. | String de 13 caracteres | sempre    |
@@ -494,6 +678,7 @@ Se desejar, pode apresentar a URL de rastreio aos seus clientes composto da URL 
 
 ### Parâmetros da URL:
     * Obrigatório
+
 | Nome     | Descrição                                                                                    | Formato / Exemplo       | Obrigatório |
 |----------|----------------------------------------------------------------------------------------------|-------------------------|-------------|
 | id_frete | Identificador do frete contratado no Frete Rápido. Pode ser utilizado para rastrear o frete. | String de 13 caracteres | *           |
@@ -555,6 +740,7 @@ Assim, é possível criar uma URL esperando as notificações de um novo status,
 
 ## Envio:
 ### Parâmetros enviados no corpo da requisição:
+    * obrigatório
 
 | Nome               | Descrição                                                                                    | Formato / Exemplo              | Informado            |
 |--------------------|----------------------------------------------------------------------------------------------|--------------------------------|----------------------|
